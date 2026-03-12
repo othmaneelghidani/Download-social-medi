@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.14.1
+yt-dlp==2023.12.30
